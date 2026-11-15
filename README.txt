@@ -55,5 +55,4 @@ the finite transition graph gives an exact denominator bound. Polynomial
 cross multiplication then certifies the rational identity for every word
 length. Native Hilbert-engine checks are independent corroboration.
 
-The K_(3,t), fixed-neighbour, Gorenstein, and physical-coordinate results
-have written uniform proofs in the paper. 
+
