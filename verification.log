@@ -1,0 +1,36 @@
+Native Macaulay2 verification of complete bipartite slope models
+Macaulay2 version: 1.24.11
+K4,0 circuit count: 0
+K4,1 circuit count: 0
+K4,2 circuit count: 0
+K4,3 circuit count: 1
+K4,4 circuit count: 80
+K4,5 circuit count: 1410
+K4,6 circuit count: 10760
+Regenerated and checked all 10760 complementary-tree certificates
+Compressed words: 633; minimal forbidden words: 55
+Reachable accepting prefix states: 7946
+Minimal states: 70; accepting: 69; refinement passes: 4
+Verified exact order-15 bound and order-8 rational identity
+Verified Hilbert substitution, regularity, degree, and final-corner identities
+Degree initial values: {6, 76, 560, 3192, 15666, 69796}
+Native Hilbert-engine cross-check K4,3: PASS
+Native Hilbert-engine cross-check K4,4: PASS
+Native Hilbert-engine cross-check K4,5: PASS
+Native Hilbert-engine cross-check K4,6: PASS
+PASS K_(3,4) native resolution and Hilbert series over QQ
+PASS K_(3,5) native resolution and Hilbert series over QQ
+PASS K_(3,6) native resolution and Hilbert series over QQ
+PASS K_(3,4) native resolution and Hilbert series over ZZ/2
+PASS K_(3,5) native resolution and Hilbert series over ZZ/2
+PASS K_(3,6) native resolution and Hilbert series over ZZ/2
+PASS K_(3,4) native resolution and Hilbert series over ZZ/3
+PASS K_(3,5) native resolution and Hilbert series over ZZ/3
+PASS K_(3,6) native resolution and Hilbert series over ZZ/3
+PASS 3 fixed neighbours: scroll Eagon-Northcott resolution
+PASS 4 fixed neighbours: scroll Eagon-Northcott resolution
+PASS 5 fixed neighbours: scroll Eagon-Northcott resolution
+PASS applications: sextic bearing compatibility and degree-11 rooted pentad identity
+PASS all independent native Macaulay2 algebra checks
+Total CPU seconds: 29.9258
+PASS: complete native Macaulay2 verification
